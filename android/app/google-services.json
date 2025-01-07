@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083693922498",
+    "project_id": "recipe-app-a8d05",
+    "storage_bucket": "recipe-app-a8d05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083693922498:android:f1fc8c1bcac7a0a5cc235b",
+        "android_client_info": {
+          "package_name": "com.example.recipe_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByrCLfybCngG4BZv1_cCG1Gk1SJYbXanE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
